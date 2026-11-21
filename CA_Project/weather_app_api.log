@@ -1,0 +1,1136 @@
+2026-07-23 03:14:03,518 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-23 03:14:03,522 | WARNING |  No such comm: de3b4f3e-e0a6-44b4-aac5-70d2c9fd5d8b
+2026-07-23 05:52:11,349 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-23 05:52:11,351 | WARNING |  No such comm: cb202a77-4ae4-44c6-9e87-c592da04dd99
+2026-07-23 16:39:07,618 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-23 16:39:07,627 | WARNING |  No such comm: 2290daeb-9617-4ff6-a53f-e8a487733388
+2026-07-23 19:41:47,292 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-23 19:41:47,307 | WARNING |  No such comm: e6837374-d877-4ee7-b455-68b73dfce762
+2026-07-23 19:48:14,907 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-23 19:48:14,911 | WARNING |  No such comm: 40e5a4c6-c394-4593-bcbb-0f95d20a9040
+2026-07-23 20:02:10,386 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-23 20:02:10,390 | WARNING |  No such comm: 1843244a-0c22-43bd-aa13-3a421b5d435e
+2026-07-23 21:01:01,969 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-23 21:01:01,978 | WARNING |  No such comm: 3d3993b3-3179-4502-a1d5-fe298a9dd63f
+2026-07-23 22:43:10,669 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-23 22:43:10,669 | WARNING |  No such comm: 5235a4d2-0b46-4faa-987a-39ee41dd0369
+2026-07-24 01:01:11,958 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 01:01:11,962 | WARNING |  No such comm: c27faadc-ceac-4000-a2b5-68b8068cc8c6
+2026-07-24 01:53:05,102 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_37568\3661547556.py", line 25, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fetching_weather_info() got an unexpected keyword argument 'forecast_days_section'
+2026-07-24 01:55:05,263 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_37568\1749414401.py", line 25, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fetching_weather_info() got an unexpected keyword argument 'forecast_days_section'
+2026-07-24 02:00:47,271 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_37568\3094445087.py", line 25, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fetching_weather_info() got an unexpected keyword argument 'forecast_days_section'
+2026-07-24 02:05:32,181 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56064\1945113986.py", line 25, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fetching_weather_info() got an unexpected keyword argument 'forecast_days_section'
+2026-07-24 02:09:11,004 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56064\4263262597.py", line 25, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fetching_weather_info() got an unexpected keyword argument 'forecast_days_section'
+2026-07-24 02:12:33,541 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56064\1279867273.py", line 25, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fetching_weather_info() got an unexpected keyword argument 'forecast_days_section'
+2026-07-24 02:15:01,916 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56064\905322317.py", line 25, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fetching_weather_info() got an unexpected keyword argument 'forecast_days_section'
+2026-07-24 02:21:15,247 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56064\94286129.py", line 25, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fetching_weather_info() got an unexpected keyword argument 'forecast_days_section'
+2026-07-24 03:43:46,365 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 03:43:46,385 | WARNING |  No such comm: bfc07d88-dc68-4a55-a2a3-4c30282c7630
+2026-07-24 04:20:13,487 | ERROR |  The Weather API request has failed. Please try again.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56064\882844242.py", line 25, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56064\2993086419.py", line 40, in fetching_weather_info
+    getting_forecast_info.raise_for_status()
+  File "C:\Users\Sonia\anaconda3\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.open-meteo.com/v1/forecast?latitude=51.50853&longitude=-0.12574&current_weather=temperature_2m%2Crelative_humidity_2m%2Capparent_temperature%2Cprecipitation%2Cweather_code%2Cwind_speed_10m&daily_weather=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cwind_speed_10m_max&daily_weather=sunrise%2Csunset&timezone=auto&forecast_days=3
+2026-07-24 04:22:13,497 | ERROR |  The Weather API request has failed. Please try again.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56064\2382695779.py", line 25, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56064\2993086419.py", line 40, in fetching_weather_info
+    getting_forecast_info.raise_for_status()
+  File "C:\Users\Sonia\anaconda3\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.open-meteo.com/v1/forecast?latitude=51.50853&longitude=-0.12574&current_weather=temperature_2m%2Crelative_humidity_2m%2Capparent_temperature%2Cprecipitation%2Cweather_code%2Cwind_speed_10m&daily_weather=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cwind_speed_10m_max&daily_weather=sunrise%2Csunset&timezone=auto&forecast_days=3
+2026-07-24 04:23:20,857 | ERROR |  The Weather API request has failed. Please try again.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56064\2896789996.py", line 25, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56064\2993086419.py", line 40, in fetching_weather_info
+    getting_forecast_info.raise_for_status()
+  File "C:\Users\Sonia\anaconda3\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.open-meteo.com/v1/forecast?latitude=51.50853&longitude=-0.12574&current_weather=temperature_2m%2Crelative_humidity_2m%2Capparent_temperature%2Cprecipitation%2Cweather_code%2Cwind_speed_10m&daily_weather=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cwind_speed_10m_max&daily_weather=sunrise%2Csunset&timezone=auto&forecast_days=2
+2026-07-24 04:34:45,530 | ERROR |  The Weather API request has failed. Please try again.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56064\2896789996.py", line 25, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56064\3488601689.py", line 41, in fetching_weather_info
+    getting_forecast_info.raise_for_status()
+  File "C:\Users\Sonia\anaconda3\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.open-meteo.com/v1/forecast?latitude=51.50853&longitude=-0.12574&forecast_days=2&current_weather=temperature_2m%2Crelative_humidity_2m%2Capparent_temperature%2Cprecipitation%2Cweather_code%2Cwind_speed_10m&daily_weather=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cwind_speed_10m_max&daily_weather=sunrise%2Csunset&timezone=auto
+2026-07-24 04:38:07,415 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_49132\1228935291.py", line 29, in <module>
+    forecast_days=forecast_days
+                  ^^^^^^^^^^^^^
+NameError: name 'forecast_days' is not defined. Did you mean: 'forecast_url'?
+2026-07-24 04:40:51,452 | ERROR |  The Weather API request has failed. Please try again.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_49132\919891198.py", line 26, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_49132\4046377769.py", line 41, in fetching_weather_info
+    getting_forecast_info.raise_for_status()
+  File "C:\Users\Sonia\anaconda3\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.open-meteo.com/v1/forecast?latitude=51.50853&longitude=-0.12574&current_weather=temperature_2m%2Crelative_humidity_2m%2Capparent_temperature%2Cprecipitation%2Cweather_code%2Cwind_speed_10m&daily_weather=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cwind_speed_10m_max&daily_weather=sunrise%2Csunset&timezone=auto&forecast_days=2
+2026-07-24 04:42:01,056 | ERROR |  The Weather API request has failed. Please try again.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_49132\1854134478.py", line 25, in <module>
+    weather_info_section = fetching_weather_info(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_49132\4046377769.py", line 41, in fetching_weather_info
+    getting_forecast_info.raise_for_status()
+  File "C:\Users\Sonia\anaconda3\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.open-meteo.com/v1/forecast?latitude=51.50853&longitude=-0.12574&current_weather=temperature_2m%2Crelative_humidity_2m%2Capparent_temperature%2Cprecipitation%2Cweather_code%2Cwind_speed_10m&daily_weather=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cwind_speed_10m_max&daily_weather=sunrise%2Csunset&timezone=auto&forecast_days=2
+2026-07-24 04:47:09,689 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_49132\1854134478.py", line 34, in <module>
+    current_section = weather.get("current_section", {})
+                      ^^^^^^^
+NameError: name 'weather' is not defined
+2026-07-24 05:48:33,973 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 05:48:33,973 | WARNING |  No such comm: f2df53e5-0c09-485e-8e81-f4800b9e230e
+2026-07-24 06:03:04,105 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 06:03:04,109 | WARNING |  No such comm: 0f2c68f0-c8e5-422f-af9d-e14f56edaee0
+2026-07-24 06:24:49,138 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 06:24:49,151 | WARNING |  No such comm: 535ae664-8a9e-4129-8b5c-9b4dfad05199
+2026-07-24 06:37:32,377 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 06:37:32,377 | WARNING |  No such comm: 2267709d-8fad-45b9-86bf-efc36d65b8f9
+2026-07-24 07:02:29,997 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 07:02:30,000 | WARNING |  No such comm: 81f512f8-b642-4c5e-be97-5859a55175ef
+2026-07-24 15:50:49,403 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 15:50:49,406 | WARNING |  No such comm: 32863f37-37db-4650-a12b-21c23316adfa
+2026-07-24 18:44:31,752 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 18:44:31,758 | WARNING |  No such comm: b9fdb3c5-12b3-47fd-b282-66bc973b31b7
+2026-07-24 18:45:03,234 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 18:45:03,246 | WARNING |  No such comm: d2ea08f1-47a2-4462-8af0-b158431ddb8b
+2026-07-24 19:03:51,720 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 19:03:51,737 | WARNING |  No such comm: 53cc850b-772e-4daa-b2a1-ad2ef1d54fcc
+2026-07-24 21:28:07,851 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 21:28:07,868 | WARNING |  No such comm: 4616af1a-bbb6-4764-b967-f7cfe5366ae6
+2026-07-24 22:44:15,652 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 22:44:15,656 | WARNING |  No such comm: c0702f60-0322-460c-add1-5dda51a97c11
+2026-07-24 23:04:14,955 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 23:04:14,987 | WARNING |  No such comm: f59d39e9-ef0c-4b26-95e3-b413734ee57e
+2026-07-24 23:29:13,159 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 23:29:13,170 | WARNING |  No such comm: 3f5af0fd-6980-42dc-a958-8f6788f9c467
+2026-07-24 23:51:42,451 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-24 23:51:42,451 | WARNING |  No such comm: 8ef10b04-c690-4fdd-83c4-de00a3a2edd8
+2026-07-25 00:45:24,488 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_49132\2029367162.py", line 34, in <module>
+    current_section = weather.get("current_section", {})
+                      ^^^^^^^
+NameError: name 'weather' is not defined
+2026-07-25 00:57:11,543 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_66716\1574586325.py", line 34, in <module>
+    current_section = weather.get("current_section", {})
+                      ^^^^^^^
+NameError: name 'weather' is not defined
+2026-07-25 01:00:22,768 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_57420\1574586325.py", line 34, in <module>
+    current_section = weather.get("current_section", {})
+                      ^^^^^^^
+NameError: name 'weather' is not defined
+2026-07-25 01:01:32,753 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_52672\2029367162.py", line 34, in <module>
+    current_section = weather.get("current_section", {})
+                      ^^^^^^^
+NameError: name 'weather' is not defined
+2026-07-25 01:03:06,963 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_52672\2293719517.py", line 71, in <module>
+    report_path_section = creating_word_doc_report(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_52672\4028639193.py", line 4, in creating_word_doc_report
+    get_city = getting_location["name"]
+               ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 01:27:06,154 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_52672\1731558919.py", line 20, in <module>
+    location_section = geocode_city_coordinates(getting_location) # getting_location
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'str' object is not callable
+2026-07-25 01:27:41,160 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_66896\1731558919.py", line 20, in <module>
+    location_section = geocode_city_coordinates(getting_location) # getting_location
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'str' object is not callable
+2026-07-25 01:30:39,319 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_68804\2293719517.py", line 71, in <module>
+    report_path_section = creating_word_doc_report(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_68804\1057456948.py", line 5, in creating_word_doc_report
+    get_city = getting_location["name"]
+               ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 01:32:45,220 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_68804\2293719517.py", line 71, in <module>
+    report_path_section = creating_word_doc_report(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_68804\1802529272.py", line 8, in creating_word_doc_report
+    get_city = geocode_city_coordinates["name"]
+               ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: 'function' object is not subscriptable
+2026-07-25 01:33:45,581 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_60936\2293719517.py", line 71, in <module>
+    report_path_section = creating_word_doc_report(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_60936\2341305440.py", line 5, in creating_word_doc_report
+    get_city = getting_location["name"]
+               ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 01:40:48,538 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_65556\2293719517.py", line 71, in <module>
+    report_path_section = creating_word_doc_report(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_65556\2341305440.py", line 5, in creating_word_doc_report
+    get_city = getting_location["name"]
+               ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 01:42:31,543 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_41188\2293719517.py", line 71, in <module>
+    report_path_section = creating_word_doc_report(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_41188\2341305440.py", line 5, in creating_word_doc_report
+    get_city = getting_location["name"]
+               ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 01:48:58,270 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_70492\2293719517.py", line 71, in <module>
+    report_path_section = creating_word_doc_report(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_70492\2341305440.py", line 5, in creating_word_doc_report
+    get_city = getting_location["name"]
+               ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 01:59:19,589 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_67988\2293719517.py", line 71, in <module>
+    report_path_section = creating_word_doc_report(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_67988\1678697323.py", line 5, in creating_word_doc_report
+    get_city = getting_location['name']
+               ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 02:09:37,016 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_29428\2293719517.py", line 71, in <module>
+    report_path_section = creating_word_doc_report(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_29428\2087605445.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 02:22:02,139 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_51032\2136244860.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_51032\2087605445.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 02:33:51,272 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_20140\2136244860.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_20140\2087605445.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 02:37:49,524 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_73684\2136244860.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_73684\2087605445.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 02:40:21,317 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_4888\2136244860.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_4888\2479072677.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 02:44:34,933 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_48540\2136244860.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_48540\2077703903.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 02:45:50,888 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_62396\2136244860.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_62396\716854208.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 02:49:40,045 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_67960\2136244860.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_67960\1108871724.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 02:58:02,079 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_67960\2136244860.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_67960\1108871724.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 03:02:42,446 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_68032\2136244860.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_68032\1108871724.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 03:04:28,271 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_74100\2136244860.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_74100\1108871724.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 03:08:49,704 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_74372\2063597.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_74372\1108871724.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 03:23:03,049 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_15448\2063597.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_15448\3343792060.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 03:27:20,058 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_72376\2063597.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_72376\1379169395.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 03:33:20,359 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_60016\2063597.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_60016\2476485454.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 03:33:20,971 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25.docx
+2026-07-25 03:37:01,690 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_60016\2063597.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_60016\3474985631.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 03:37:15,262 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_60016\2063597.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_60016\3474985631.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 03:37:25,468 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_2.docx
+2026-07-25 03:43:29,930 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_64912\2063597.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_64912\3474985631.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 03:43:30,690 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_3.docx
+2026-07-25 03:57:57,550 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_66592\2063597.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_66592\3474985631.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 03:57:58,150 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_4.docx
+2026-07-25 04:01:16,695 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_62856\2063597.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_62856\3474985631.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 04:01:17,464 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_5.docx
+2026-07-25 04:10:28,290 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_34144\2063597.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_34144\3474985631.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 04:10:28,882 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_6.docx
+2026-07-25 04:15:26,147 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_34144\3170977084.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_34144\1015562653.py", line 7, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 04:16:57,927 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_74484\3170977084.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_74484\3474985631.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 04:16:58,593 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_7.docx
+2026-07-25 04:19:31,789 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_74484\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_74484\1015562653.py", line 7, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 04:20:03,959 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_60868\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_60868\3474985631.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 04:20:04,598 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_8.docx
+2026-07-25 04:36:30,593 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_64196\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_64196\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 04:42:29,948 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_64196\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_64196\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 04:42:46,673 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_64196\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_64196\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 04:46:18,573 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_64196\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_64196\4294691505.py", line 5, in creating_word_doc_report
+    find_city = getting_location['name']
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 04:49:41,125 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_54584\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_54584\4294691505.py", line 5, in creating_word_doc_report
+    find_city = getting_location['name']
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 04:57:34,085 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_38084\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_38084\4294691505.py", line 5, in creating_word_doc_report
+    find_city = getting_location['name']
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 04:59:35,248 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_74680\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_74680\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 05:09:38,686 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_65424\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_65424\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 05:13:11,795 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_9.docx
+2026-07-25 05:13:26,256 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_10.docx
+2026-07-25 05:14:22,263 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_42004\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_42004\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 05:15:34,058 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56316\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56316\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 05:19:42,802 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_73888\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_73888\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 05:22:13,041 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_54164\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_54164\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 05:29:48,527 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_68812\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_68812\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 05:46:32,830 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_11.docx
+2026-07-25 05:48:16,283 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_60624\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_60624\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 08:40:29,738 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 08:40:29,744 | WARNING |  No such comm: ea0f61af-b153-4e4b-913d-7a5ab22a936d
+2026-07-25 12:51:20,004 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 12:51:20,006 | WARNING |  No such comm: 6e566b0c-3045-47db-b127-200663af0dfc
+2026-07-25 13:08:26,732 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 13:08:26,732 | WARNING |  No such comm: 4093b157-f176-4fea-87b2-b1de75dc2ef0
+2026-07-25 13:18:38,585 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 13:18:38,596 | WARNING |  No such comm: 5c08750f-e0bd-495f-a7fa-b305c9ac8d4e
+2026-07-25 13:22:04,132 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 13:22:04,136 | WARNING |  No such comm: c891956e-faa8-463e-bb6b-bacb16512841
+2026-07-25 13:33:08,662 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 13:33:08,668 | WARNING |  No such comm: 300cf547-3b82-48af-bf7f-c4f0e1ea5112
+2026-07-25 13:49:08,303 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 13:49:08,307 | WARNING |  No such comm: e4e851c5-61e7-4145-88ac-664bd62d3e4a
+2026-07-25 15:08:55,738 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 15:08:55,742 | WARNING |  No such comm: 05e25d9d-01b7-48c2-a47d-8ea29b66ba6a
+2026-07-25 15:55:05,576 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 15:55:05,580 | WARNING |  No such comm: 7f2e0dd9-be08-4ffa-8ed0-83cbdfe80d65
+2026-07-25 16:04:13,844 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 16:04:13,844 | WARNING |  No such comm: a1dc0fa3-9d9b-4d3c-8019-a64ec01a1d27
+2026-07-25 16:06:59,021 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 16:06:59,023 | WARNING |  No such comm: 0d950cb2-83dd-41f8-9505-bf4c14a06cc6
+2026-07-25 16:09:27,076 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 16:09:27,076 | WARNING |  No such comm: 9ff6ce39-4c54-4f76-a0e0-d700bf2a072a
+2026-07-25 16:10:48,860 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 16:10:48,870 | WARNING |  No such comm: b07fdfe3-7ad8-4689-a753-e4852ee5a05f
+2026-07-25 16:39:10,889 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 16:39:10,894 | WARNING |  No such comm: dc3676d6-bcb2-4f59-9380-4fc6ff309d41
+2026-07-25 17:38:01,709 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_67688\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_67688\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 17:38:31,601 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_12.docx
+2026-07-25 17:38:32,661 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_13.docx
+2026-07-25 17:38:34,618 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_14.docx
+2026-07-25 17:38:34,996 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_15.docx
+2026-07-25 17:38:41,907 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_16.docx
+2026-07-25 18:18:38,834 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_3768\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_3768\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 18:18:39,758 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_17.docx
+2026-07-25 18:18:40,054 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_18.docx
+2026-07-25 18:18:40,709 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_19.docx
+2026-07-25 18:18:40,868 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_20.docx
+2026-07-25 18:19:41,933 | INFO |  Created the weater report: Weather_report_info_London_2026-07-25_21.docx
+2026-07-25 18:21:15,857 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_42072\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_42072\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 18:27:29,558 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_2360\1068173740.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_2360\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 18:52:00,664 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_2360\1563675213.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_2360\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 18:53:15,264 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_2360\1563675213.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_2360\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 18:53:44,808 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_30408\1563675213.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_30408\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 18:58:59,279 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56704\2861827243.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56704\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 18:59:41,282 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56704\2537666575.py", line 79, in <module>
+    report_path_section_info_path = creating_word_doc_report(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56704\2485306667.py", line 5, in creating_word_doc_report
+    find_city = getting_location["name"]
+                ~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-07-25 19:10:56,218 | INFO |  Created the weater report: Weather_report_info_Paris_2026-07-25.docx
+2026-07-25 19:10:56,219 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56704\3027736338.py", line 88, in <module>
+    final_section = moving_weather_report_to_logs_folder(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_56704\3376498383.py", line 5, in moving_weather_report_to_logs_folder
+    final_destination = LOGS_DIR / report_section_info_path.name
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'name'
+2026-07-25 19:13:04,102 | ERROR |  Invalid location or value. Please Try again.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_66564\3027736338.py", line 20, in <module>
+    location_section = geocode_city_coordinates(getting_location)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_66564\3967506451.py", line 27, in geocode_city_coordinates
+    raise ValueError(
+ValueError: There is no location found for 'Toyko'.
+2026-07-25 19:14:17,318 | INFO |  Created the weater report: Weather_report_info_Tokyo_2026-07-25.docx
+2026-07-25 19:14:17,318 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_59676\3027736338.py", line 88, in <module>
+    final_section = moving_weather_report_to_logs_folder(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_59676\3376498383.py", line 5, in moving_weather_report_to_logs_folder
+    final_destination = LOGS_DIR / report_section_info_path.name
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'name'
+2026-07-25 19:23:06,213 | INFO |  Created the weater report: Weather_report_info_New_York_2026-07-25.docx
+2026-07-25 19:23:06,217 | ERROR |  There is an unexpected program in your error. Please review your code.
+Traceback (most recent call last):
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_73144\3027736338.py", line 88, in <module>
+    final_section = moving_weather_report_to_logs_folder(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sonia\AppData\Local\Temp\ipykernel_73144\3952901254.py", line 19, in moving_weather_report_to_logs_folder
+    final_destination.name
+AttributeError: 'str' object has no attribute 'name'
+2026-07-25 19:29:40,532 | INFO |  Created the weater report: Weather_report_info_Amsterdam_2026-07-25.docx
+2026-07-25 19:29:40,532 | INFO |  Successfully moved report into the logs folder: Weather_report_info_Amsterdam_2026-07-25.docx
+2026-07-25 20:15:01,011 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 20:15:01,017 | WARNING |  No such comm: 6fc68718-b87d-4da1-ad93-9419fbaabdef
+2026-07-25 20:33:10,308 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 20:33:10,312 | WARNING |  No such comm: 254c3a37-3e29-4167-85f1-c926239a4b4f
+2026-07-25 22:11:29,549 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 22:11:29,566 | WARNING |  No such comm: 33ae4be5-4af3-46ec-bc19-758a0817818b
+2026-07-25 23:10:14,494 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 23:10:14,500 | WARNING |  No such comm: fbedc320-7efd-429f-9463-acdde5afeedc
+2026-07-25 23:11:23,420 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 23:11:23,420 | WARNING |  No such comm: acd11704-a01b-416b-8311-613d2615e315
+2026-07-25 23:42:45,228 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-25 23:42:45,238 | WARNING |  No such comm: 00f3cf4d-3f45-405a-8c14-7cf1dea43cdd
+2026-07-26 01:18:51,607 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 01:18:51,620 | WARNING |  No such comm: e968cd8c-5019-40ae-b448-3d22feed3ff8
+2026-07-26 03:14:11,684 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 03:14:11,693 | WARNING |  No such comm: 9118a5b7-68be-470b-a21b-fc1380b39332
+2026-07-26 04:57:26,521 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 04:57:26,524 | WARNING |  No such comm: 038de35f-21da-4a73-b175-2850ff1b51b1
+2026-07-26 05:07:45,369 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 05:07:45,373 | WARNING |  No such comm: bff78a4e-ad8a-44b2-8717-112dffb104cd
+2026-07-26 12:48:22,953 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 12:48:22,958 | WARNING |  No such comm: 66e64bc2-56c1-45b9-80a0-0e18e9f45de2
+2026-07-26 13:05:16,697 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 13:05:16,704 | WARNING |  No such comm: fe36f838-8208-482d-a2a5-a0ceb8bb1deb
+2026-07-26 13:38:29,781 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 13:38:29,783 | WARNING |  No such comm: c59684a6-81ed-4d8f-ba98-e258cba2d4f4
+2026-07-26 14:33:49,683 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 14:33:49,688 | WARNING |  No such comm: 554c08bb-4cb0-4612-b09d-9b0fe2ada16f
+2026-07-26 14:52:04,018 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 14:52:04,050 | WARNING |  No such comm: ecf47b5d-0cbc-4d80-afb1-f9ab13fd2564
+2026-07-26 14:53:04,068 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 14:53:04,078 | WARNING |  No such comm: 6511db99-7a07-4050-ae4e-bd715bc35bad
+2026-07-26 15:41:54,550 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 15:41:54,550 | WARNING |  No such comm: 19e0213b-78db-42ac-87b1-82229998f91c
+2026-07-26 16:43:00,831 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 16:43:00,831 | WARNING |  No such comm: 492706a1-97f0-49c2-89ed-55bcf2cbabcd
+2026-07-26 16:53:04,047 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 16:53:04,051 | WARNING |  No such comm: 1906f319-f1f1-43f1-b2d3-b39679ede111
+2026-07-26 17:13:38,728 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 17:13:38,728 | WARNING |  No such comm: efbf5338-11bf-45a3-a3f3-ea19f51b0e43
+2026-07-26 17:52:15,348 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 17:52:15,353 | WARNING |  No such comm: a49099d7-a5f3-4b0f-ba5d-fdaaf1af943e
+2026-07-26 17:56:09,889 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 17:56:09,905 | WARNING |  No such comm: 155c7fd1-2aac-44ba-b748-0071cd5735ff
+2026-07-26 18:13:10,343 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 18:13:10,343 | WARNING |  No such comm: 8993be03-a045-4e49-82e4-724756adfc21
+2026-07-26 18:50:35,693 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 18:50:35,709 | WARNING |  No such comm: c82a7e6b-bcfd-4e7f-8db7-44f5d694ff0f
+2026-07-26 19:14:01,992 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 19:14:01,992 | WARNING |  No such comm: 8ebf27d8-aac1-4ccc-86ce-6ac2d522b74b
+2026-07-26 19:38:39,210 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 19:38:39,210 | WARNING |  No such comm: ce9c48cb-ee3b-43ee-afbb-b4feeb5fbbeb
+2026-07-26 19:47:35,800 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 19:47:35,806 | WARNING |  No such comm: 26bfdcf0-3067-46a4-a4c8-ac09efec5d41
+2026-07-26 20:01:52,519 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 20:01:52,529 | WARNING |  No such comm: baed01f8-f701-4386-aff8-8b5ba6620bc6
+2026-07-26 20:02:12,044 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 20:02:12,060 | WARNING |  No such comm: b594af07-58a0-48ad-9f8b-f4505f4909b2
+2026-07-26 20:46:29,578 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 20:46:29,586 | WARNING |  No such comm: 377a7ee8-dd29-4f0c-b04e-4f8a0e7dc796
+2026-07-26 21:20:01,704 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 21:20:01,731 | WARNING |  No such comm: c22bfbf8-fe6f-4c52-a228-5f252e5fc25f
+2026-07-26 22:45:04,097 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 22:45:04,104 | WARNING |  No such comm: 3ce2b50c-43e7-4031-9b25-c2cbbc969a2e
+2026-07-26 23:01:15,645 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-26 23:01:15,649 | WARNING |  No such comm: 4236a659-bbc3-4ea7-8e1d-850d7d8d71ca
+2026-07-27 00:14:50,140 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 00:14:50,161 | WARNING |  No such comm: d838108a-7902-40d1-9583-4cbf13e59af4
+2026-07-27 00:18:39,159 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 00:18:39,162 | WARNING |  No such comm: 0824b5c5-cd03-43e2-b721-fcc128496d00
+2026-07-27 00:21:12,564 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 00:21:12,566 | WARNING |  No such comm: 2c7b91c4-f88e-4065-b80f-ec24f9b4c87a
+2026-07-27 01:41:38,812 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 01:41:38,819 | WARNING |  No such comm: 32a61a0d-6126-4b78-85b3-0e34608f2f42
+2026-07-27 01:43:58,805 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 01:43:58,805 | WARNING |  No such comm: fdacec58-e38d-4480-b54c-6561a144af2e
+2026-07-27 05:42:41,655 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 05:42:41,663 | WARNING |  No such comm: 177c6762-1b1b-4983-9d2c-1b9917564ae1
+2026-07-27 06:04:17,183 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 06:04:17,187 | WARNING |  No such comm: 962f5e39-dea7-421e-9614-f8a50c2e109c
+2026-07-27 14:02:55,095 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 14:02:55,105 | WARNING |  No such comm: 64c28a99-5405-4253-877c-3d7b8923b7f6
+2026-07-27 14:20:29,597 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 14:20:29,621 | WARNING |  No such comm: 0e4239d9-b0c2-48df-848e-df871757ba8c
+2026-07-27 14:22:31,541 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 14:22:31,555 | WARNING |  No such comm: efee2c2c-4bbe-4103-993f-80190cefc052
+2026-07-27 14:50:44,040 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 14:50:44,046 | WARNING |  No such comm: 24c5e1e0-2c18-44b0-8700-8e8266aca5d4
+2026-07-27 14:51:10,024 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 14:51:10,034 | WARNING |  No such comm: b8652004-6b72-4c58-99ab-d3ff1b14dcd9
+2026-07-27 15:36:56,591 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 15:36:56,591 | WARNING |  No such comm: f9c0cc6e-1b66-4f4c-966d-81a58a438aa6
+2026-07-27 16:15:05,194 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 16:15:05,198 | WARNING |  No such comm: ea818f1b-6ef5-4f97-8a96-f5a61e46366e
+2026-07-27 16:39:55,556 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 16:39:55,568 | WARNING |  No such comm: 5e7523fd-1a63-42f3-9a3b-758277af58e3
+2026-07-27 18:26:03,893 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 18:26:03,895 | WARNING |  No such comm: 70ec9d89-27f5-4282-a99b-a327b879676f
+2026-07-27 19:30:48,610 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 19:30:48,622 | WARNING |  No such comm: 23ad6294-5572-42b8-b987-5cfe93b1e5b1
+2026-07-27 20:26:43,693 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 20:26:43,705 | WARNING |  No such comm: 11cbfd51-f939-41b0-9de6-74da3b165652
+2026-07-27 22:06:15,663 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 22:06:15,670 | WARNING |  No such comm: 10e81c1c-56fc-437f-8e74-71d24fb08b27
+2026-07-27 22:48:23,441 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-27 22:48:23,515 | WARNING |  No such comm: 1acac68d-0f8e-4829-a170-b6eaba1ab810
+2026-07-28 00:21:13,268 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 00:21:13,268 | WARNING |  No such comm: 92045311-b856-429e-a5d4-33f1e0ef6917
+2026-07-28 00:55:11,046 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 00:55:11,101 | WARNING |  No such comm: a355c574-0439-4fcb-a33c-cca04d6d54cc
+2026-07-28 03:55:13,582 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 03:55:13,587 | WARNING |  No such comm: 3ae214f6-4121-4372-a8ef-dabac76a3c67
+2026-07-28 04:01:19,836 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 04:01:19,851 | WARNING |  No such comm: 1e1c3b08-aa87-4a72-8155-4400c5edfd2d
+2026-07-28 04:03:27,204 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 04:03:27,216 | WARNING |  No such comm: 88bce029-ab3a-4a0d-84dd-69a1aa545699
+2026-07-28 04:50:55,766 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 04:50:55,775 | WARNING |  No such comm: e06d9b99-c591-4598-aebf-c914c3f9da3c
+2026-07-28 06:16:43,632 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 06:16:43,632 | WARNING |  No such comm: 48e00c10-9b4e-4c4c-acad-504c311a93b2
+2026-07-28 07:11:43,781 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 07:11:43,797 | WARNING |  No such comm: ce25f1ee-588d-4c12-b655-dc1c846011b2
+2026-07-28 07:22:50,430 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 07:22:50,434 | WARNING |  No such comm: ef0141ce-1a6b-40b0-a8e1-f131836aa392
+2026-07-28 09:33:33,116 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 09:33:33,124 | WARNING |  No such comm: 996d8cea-66e6-4055-b605-cba8c2d3116e
+2026-07-28 13:45:58,871 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 13:45:58,928 | WARNING |  No such comm: 52ca861b-3346-4a88-a454-206b7a45b842
+2026-07-28 14:02:00,854 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 14:02:00,860 | WARNING |  No such comm: 259e8fda-cafc-48f6-be3a-fa8b136cbcb8
+2026-07-28 14:05:52,534 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 14:05:52,534 | WARNING |  No such comm: 3526a192-84b0-46bc-96b7-70bcb7265ab5
+2026-07-28 14:15:57,323 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 14:15:57,327 | WARNING |  No such comm: 15cf4efc-b63d-416c-a743-661303e792d5
+2026-07-28 15:02:29,809 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 15:02:29,816 | WARNING |  No such comm: 0c344ea4-7b11-42b2-bc23-7b11bf95e2e2
+2026-07-28 15:35:46,581 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 15:35:46,587 | WARNING |  No such comm: 31831fb0-4560-4445-b1a0-65bcd30edcc4
+2026-07-28 15:46:47,833 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 15:46:47,869 | WARNING |  No such comm: c205f4f7-7eae-4d46-a17c-3adf9b959392
+2026-07-28 16:02:02,116 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 16:02:02,116 | WARNING |  No such comm: d3537a4a-80d0-4b42-ab53-383614a9bd39
+2026-07-28 16:15:38,765 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 16:15:38,802 | WARNING |  No such comm: 3c4c2ce8-d147-4e21-b759-5f2ad7541157
+2026-07-28 18:43:46,773 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 18:43:46,773 | WARNING |  No such comm: f66c1632-6782-406d-862a-1da441588e1c
+2026-07-28 18:55:02,203 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 18:55:02,212 | WARNING |  No such comm: e47ff432-5185-4a4e-b985-dee6e03ca9c7
+2026-07-28 19:04:36,424 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 19:04:36,434 | WARNING |  No such comm: 6430126a-6f27-4475-b3cb-eb9708345cbf
+2026-07-28 19:12:46,258 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 19:12:46,265 | WARNING |  No such comm: abc13557-53a1-41c4-a619-99223873ebbc
+2026-07-28 19:13:00,293 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 19:13:00,295 | WARNING |  No such comm: fbada541-07a6-4e4e-872f-85dfc38a5949
+2026-07-28 19:42:41,034 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 19:42:41,050 | WARNING |  No such comm: 3d887264-eced-4d96-a583-7006b0fac366
+2026-07-28 20:26:04,069 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 20:26:04,080 | WARNING |  No such comm: 00b30e7c-0e29-469c-8f3b-3016ab8fde08
+2026-07-28 20:27:37,481 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 20:27:37,517 | WARNING |  No such comm: 97f0d4f0-bc82-44fd-b55a-d7dbbbb4d19e
+2026-07-28 20:37:36,716 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 20:37:36,722 | WARNING |  No such comm: ca27062e-3c27-4357-9c3d-977b79de1236
+2026-07-28 23:00:58,719 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 23:00:58,725 | WARNING |  No such comm: 6607f6ee-5dcc-4023-b048-c9305d38bf41
+2026-07-28 23:17:39,350 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-28 23:17:39,382 | WARNING |  No such comm: 41b1d032-ac4c-4bfe-8657-dfde96743e94
+2026-07-29 00:05:01,526 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 00:05:01,549 | WARNING |  No such comm: c45e6320-e089-4210-b02c-704a6e4abcf6
+2026-07-29 00:51:41,503 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 00:51:41,503 | WARNING |  No such comm: d26289e4-b52b-4fb0-80b8-d4ca63e7fc49
+2026-07-29 02:56:32,143 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 02:56:32,148 | WARNING |  No such comm: 1ca76013-70a4-44b4-8d7a-fdb29a6cac7f
+2026-07-29 03:28:43,410 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 03:28:43,420 | WARNING |  No such comm: fb0c1712-81d1-4819-8dcc-7a3b95187e59
+2026-07-29 04:11:18,664 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 04:11:18,680 | WARNING |  No such comm: 046a5daf-a2de-4dc4-b9f8-0bc43e062c82
+2026-07-29 06:40:17,847 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 06:40:17,862 | WARNING |  No such comm: 25ecc4a3-44b8-4721-9bba-ac94b3a2326b
+2026-07-29 07:47:58,951 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 07:47:58,953 | WARNING |  No such comm: cd6357ea-3831-4827-8aad-b8ec18ba72fd
+2026-07-29 08:11:17,800 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 08:11:17,800 | WARNING |  No such comm: 728f3b0b-0d19-48fd-9ce7-477507bdb53a
+2026-07-29 08:24:12,534 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 08:24:12,538 | WARNING |  No such comm: 76d125ee-adbd-42a2-96d2-e46e7ff0eced
+2026-07-29 10:04:27,841 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 10:04:27,841 | WARNING |  No such comm: 056da5f6-9044-43fe-a9d1-3e1d69df6609
+2026-07-29 18:24:47,107 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 18:24:47,111 | WARNING |  No such comm: b8a1590d-81c3-4f71-8c21-409997f22143
+2026-07-29 19:16:17,764 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 19:16:17,775 | WARNING |  No such comm: 8ec97fba-684e-431b-a7ff-c08e6ad48073
+2026-07-29 20:32:25,704 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 20:32:25,712 | WARNING |  No such comm: fe7a6cc5-4b7c-45be-88ce-3fcca1153b19
+2026-07-29 20:37:14,527 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 20:37:14,534 | WARNING |  No such comm: dfd50707-377f-4b07-a3b5-e8227c7dcd40
+2026-07-29 20:43:11,387 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 20:43:11,387 | WARNING |  No such comm: 184b4b18-3b28-4ffe-ab15-24c49a25e043
+2026-07-29 21:44:42,239 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 21:44:42,246 | WARNING |  No such comm: fa442d43-8026-498c-a899-9ee973a114e2
+2026-07-29 23:20:29,683 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-29 23:20:29,688 | WARNING |  No such comm: 1339cfe2-ec35-43ba-8537-018f8aca6cdd
+2026-07-29 23:55:45,503 | INFO |  Created the weater report: Weather_report_info_Seoul_2026-07-29.docx
+2026-07-29 23:55:45,505 | INFO |  Successfully moved report into the logs folder: Weather_report_info_Seoul_2026-07-29.docx
+2026-07-30 00:28:52,511 | INFO |  Created the weater report: Weather_report_info_Dublin_2026-07-30.docx
+2026-07-30 00:28:52,515 | INFO |  Successfully moved report into the logs folder: Weather_report_info_Dublin_2026-07-30.docx
+2026-07-30 01:04:18,124 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 01:04:18,128 | WARNING |  No such comm: 67c23ee1-e05b-47bc-988f-856be82b29dd
+2026-07-30 01:21:08,035 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 01:21:08,039 | WARNING |  No such comm: 3e298397-926a-4ced-a86a-5bd03aa7725c
+2026-07-30 02:32:12,337 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 02:32:12,348 | WARNING |  No such comm: 77a4bb4b-f7af-46ef-b8e6-eba532c05132
+2026-07-30 02:35:56,797 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 02:35:56,801 | WARNING |  No such comm: 05421a07-d54e-4698-bb38-02e989daacd0
+2026-07-30 03:02:31,464 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 03:02:31,517 | WARNING |  No such comm: e564d3b4-31d8-45fe-9408-39f18d5cf219
+2026-07-30 03:10:39,363 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 03:10:39,455 | WARNING |  No such comm: 9a4d89fa-69f8-4118-9a65-97b7810c8618
+2026-07-30 03:31:04,277 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 03:31:04,281 | WARNING |  No such comm: 2544477f-ee05-45ae-9610-a68dd4428a30
+2026-07-30 11:22:30,010 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 11:22:30,018 | WARNING |  No such comm: 55b027ea-00b6-43a6-ac8c-f705170125e1
+2026-07-30 11:29:15,546 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 11:29:15,551 | WARNING |  No such comm: b836e0fc-df01-4941-a416-141272dee2c1
+2026-07-30 11:34:44,910 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 11:34:44,914 | WARNING |  No such comm: 95370c3d-e17d-4860-a956-c4f3a1d52855
+2026-07-30 11:51:50,729 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 11:51:50,754 | WARNING |  No such comm: 1f2ed72b-f676-4b59-8265-1258a5292b24
+2026-07-30 11:54:04,232 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 11:54:04,235 | WARNING |  No such comm: 08b85913-7a10-4069-9a08-c42c08767987
+2026-07-30 11:56:19,893 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 11:56:19,896 | WARNING |  No such comm: d03887d0-ca4d-474f-bf19-1b8945b79d47
+2026-07-30 11:58:03,774 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 11:58:03,821 | WARNING |  No such comm: 69746812-0526-48f8-834a-f51aaffcfe53
+2026-07-30 12:07:01,766 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 12:07:01,824 | WARNING |  No such comm: a142e336-3944-4ce3-8163-4be13d9341f5
+2026-07-30 12:25:14,677 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 12:25:14,682 | WARNING |  No such comm: e4667ce0-742b-4231-aa8c-84ca3585473c
+2026-07-30 12:32:48,712 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 12:32:48,717 | WARNING |  No such comm: 81650c23-bbaa-4ba7-bc14-f286f0cdb319
+2026-07-30 12:44:03,672 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 12:44:03,684 | WARNING |  No such comm: 7cc4fcd3-79d0-49b7-bedb-a2a253a82403
+2026-07-30 12:51:02,448 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 12:51:02,451 | WARNING |  No such comm: 4e3a7cbc-885e-49a0-825b-b44e50ac9c31
+2026-07-30 13:51:27,015 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 13:51:27,021 | WARNING |  No such comm: f3b7055e-df6c-476b-8d07-b9a74720c523
+2026-07-30 13:54:54,080 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 13:54:54,083 | WARNING |  No such comm: 5e4b7471-d8f5-45d1-a635-3b3a17c6f6c2
+2026-07-30 14:00:48,341 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 14:00:48,348 | WARNING |  No such comm: d0f76584-9618-4d44-8cf9-1832d5f79df6
+2026-07-30 15:41:35,066 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 15:41:35,070 | WARNING |  No such comm: 19df1aae-ce95-4d18-9382-707a3a8621b9
+2026-07-30 15:48:38,182 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 15:48:38,195 | WARNING |  No such comm: d1a3c4fe-4ff2-4056-bf30-d403de1a19c4
+2026-07-30 17:06:42,310 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-30 17:06:42,314 | WARNING |  No such comm: f0f22e5b-e87d-419a-87f3-497beb2b6668
+2026-07-31 00:34:04,155 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 00:34:04,161 | WARNING |  No such comm: 2c729505-242d-47d2-8903-3024928e8281
+2026-07-31 00:35:06,066 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 00:35:06,070 | WARNING |  No such comm: 2e2267e5-8a1a-4633-8e65-347918ba23a9
+2026-07-31 00:38:10,174 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 00:38:10,178 | WARNING |  No such comm: d43d6329-576a-47aa-a4b8-c0526ba0955e
+2026-07-31 02:43:59,933 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 02:43:59,937 | WARNING |  No such comm: 37f1abff-ed61-493f-95d8-115f714c819e
+2026-07-31 03:46:01,789 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 03:46:01,796 | WARNING |  No such comm: d4f9949d-cd9b-4e13-bf42-50897b607f95
+2026-07-31 03:46:33,722 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 03:46:33,725 | WARNING |  No such comm: 04b75d1c-9700-4b38-869c-67cf2943db53
+2026-07-31 03:49:36,294 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 03:49:36,298 | WARNING |  No such comm: 1e695796-d9be-4d6d-a809-7dd7969d1fcc
+2026-07-31 03:52:49,819 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 03:52:49,824 | WARNING |  No such comm: 4509cd14-ebfe-46db-a212-ab183109c8ed
+2026-07-31 04:27:16,748 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 04:27:16,752 | WARNING |  No such comm: d3f838e0-d48d-4575-ac5a-a48f9d011373
+2026-07-31 04:29:44,078 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 04:29:44,082 | WARNING |  No such comm: c6d9eda5-2a78-45f0-9c77-ae05e5ba1b69
+2026-07-31 04:59:04,991 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 04:59:04,995 | WARNING |  No such comm: 21d0846a-8301-4e37-a9b1-d7c6a8b81218
+2026-07-31 05:07:51,880 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 05:07:51,883 | WARNING |  No such comm: d07ccf0d-b6d6-4e60-b105-719b135abe77
+2026-07-31 13:23:03,147 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 13:23:03,151 | WARNING |  No such comm: a1a08390-ae12-4225-8804-d15483011a14
+2026-07-31 15:41:08,199 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 15:41:08,207 | WARNING |  No such comm: a15253f4-d4de-4ab0-8ad3-3ded727e0b6f
+2026-07-31 16:42:05,151 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 16:42:05,158 | WARNING |  No such comm: 783c5376-e8b4-49ba-a421-94bf9d935a9c
+2026-07-31 17:14:16,064 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 17:14:16,073 | WARNING |  No such comm: f3e6e37f-8480-44e7-914e-58551c887032
+2026-07-31 17:16:16,125 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 17:16:16,128 | WARNING |  No such comm: eb1f168b-544b-493c-9714-e2c7c5387065
+2026-07-31 17:24:09,769 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 17:24:09,785 | WARNING |  No such comm: d7d0c07d-f1aa-4290-941b-cfb4b67cd350
+2026-07-31 17:46:05,179 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 17:46:05,181 | WARNING |  No such comm: 5d8cc6a1-7afe-487b-bda4-aa6d666e4987
+2026-07-31 17:56:27,634 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 17:56:27,662 | WARNING |  No such comm: 952f4584-ea68-494c-a733-06e6db63df57
+2026-07-31 18:19:53,489 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 18:19:53,496 | WARNING |  No such comm: 21bd1e7c-8435-4cd8-bfc3-606f790177e8
+2026-07-31 18:52:28,031 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 18:52:28,035 | WARNING |  No such comm: 9b51b8ec-37f7-4b93-97f6-dea756c6ffa1
+2026-07-31 19:15:31,332 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 19:15:31,337 | WARNING |  No such comm: 8f2dd925-f2fc-4d12-9e1f-dfbbbc6d5cba
+2026-07-31 19:24:00,636 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 19:24:00,640 | WARNING |  No such comm: 1f32062b-e3f7-40da-b098-375f0bbb026f
+2026-07-31 19:29:14,376 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 19:29:14,379 | WARNING |  No such comm: e3a58e37-2b75-43f8-b39d-aa79b56e3c92
+2026-07-31 19:37:15,993 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 19:37:15,997 | WARNING |  No such comm: 53ae2949-53d4-4121-9b08-cce1e9df7845
+2026-07-31 19:40:47,188 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 19:40:47,196 | WARNING |  No such comm: 73388f01-6d79-4adc-91b6-291ab8fc5458
+2026-07-31 19:51:28,872 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 19:51:28,877 | WARNING |  No such comm: 6b0e0010-bcc9-4d77-8ecc-f49f5d8ff59e
+2026-07-31 20:04:56,710 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 20:04:56,719 | WARNING |  No such comm: a08c8d6b-eab3-43ab-bddf-cde74934b4a5
+2026-07-31 20:27:15,219 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 20:27:15,238 | WARNING |  No such comm: d0c0e620-0c4f-4f20-b258-3abb4950495f
+2026-07-31 20:33:15,370 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 20:33:15,380 | WARNING |  No such comm: 120e9d9e-f26d-458d-8028-fc58d876c193
+2026-07-31 20:47:21,630 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 20:47:21,636 | WARNING |  No such comm: b4a9767b-7d21-425a-b653-c53ddde2921c
+2026-07-31 20:49:43,898 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 20:49:43,912 | WARNING |  No such comm: d0944c3b-bc43-4984-a49d-199959d85381
+2026-07-31 20:54:36,185 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 20:54:36,188 | WARNING |  No such comm: e2ff6ad0-a621-4d66-9ea9-232c52183ddc
+2026-07-31 21:33:14,360 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 21:33:14,365 | WARNING |  No such comm: 7afab437-556d-410e-8ec3-cf88be55548e
+2026-07-31 22:42:40,622 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 22:42:40,660 | WARNING |  No such comm: 04196a2d-c6ef-47e7-9fcd-fca2e417c2c7
+2026-07-31 22:43:41,691 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 22:43:41,702 | WARNING |  No such comm: a2f1a16d-b421-453a-a2ab-f2f0303db7b0
+2026-07-31 22:43:43,852 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 22:43:43,859 | WARNING |  No such comm: e656a2e3-417c-419a-b690-02d443b213ea
+2026-07-31 22:44:50,425 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 22:44:50,441 | WARNING |  No such comm: 034e1f28-bf80-4307-8355-a4688553ce3d
+2026-07-31 23:42:33,011 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-07-31 23:42:33,015 | WARNING |  No such comm: 4373d0a3-d4ae-446f-adec-736d9349e04e
+2026-08-01 02:15:42,944 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-08-01 02:15:42,949 | WARNING |  No such comm: ea889634-9868-4937-9b52-a43bb2b7c3fa
+2026-08-01 03:25:22,428 | ERROR |  No such comm target registered: jupyter.widget.control
+2026-08-01 03:25:22,432 | WARNING |  No such comm: a91258e0-5133-4233-9a52-55a4a9ed50d8
+2026-08-01 07:16:30,639 | INFO |  Created the weater report: Weather_report_info_Paris_2026-08-01.docx
+2026-08-01 07:16:30,642 | INFO |  Successfully moved report into the logs folder: Weather_report_info_Paris_2026-08-01.docx
